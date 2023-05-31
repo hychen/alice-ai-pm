@@ -2,7 +2,7 @@
 - *Name*: Ms. Alice
 - *Author*: Tyson Chen
 - *Version*: 0.1
-** Features":
+** Features
 *** personalize
 - Language :: English (default)
 *** plan
